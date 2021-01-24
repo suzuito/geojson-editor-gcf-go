@@ -165,6 +165,8 @@ github.com/suzuito/geojson-editor-go v0.0.0-20210124052055-13bb7a3bb565 h1:d1zxz
 github.com/suzuito/geojson-editor-go v0.0.0-20210124052055-13bb7a3bb565/go.mod h1:Aydo5qOWsDtyJRQddyF0KXL22TvYgC0hYECOOk/ksEc=
 github.com/suzuito/geojson-editor-go v0.0.0-20210124053956-76e35f3b2545 h1:vU0zDVhVk3+bC3KQx4ONwqPZ6BQmo4FuyWAIS3o074g=
 github.com/suzuito/geojson-editor-go v0.0.0-20210124053956-76e35f3b2545/go.mod h1:Aydo5qOWsDtyJRQddyF0KXL22TvYgC0hYECOOk/ksEc=
+github.com/suzuito/geojson-editor-go v0.0.0-20210124055817-c658d0d94bc5 h1:PPiYBsMOvIueXw9I+aAm1y9H6Z9XCJhEvsw9KNNqQxQ=
+github.com/suzuito/geojson-editor-go v0.0.0-20210124055817-c658d0d94bc5/go.mod h1:Aydo5qOWsDtyJRQddyF0KXL22TvYgC0hYECOOk/ksEc=
 github.com/teris-io/shortid v0.0.0-20201117134242-e59966efd125 h1:3SNcvBmEPE1YlB1JpVZouslJpI3GBNoiqW7+wb0Rz7w=
 github.com/teris-io/shortid v0.0.0-20201117134242-e59966efd125/go.mod h1:M8agBzgqHIhgj7wEn9/0hJUZcrvt9VY+Ln+S1I5Mha0=
 github.com/ugorji/go v1.1.4/go.mod h1:uQMGLiO92mf5W77hV/PUCpI3pbzQx3CRekS0kk+RGrc=
